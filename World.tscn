@@ -39,15 +39,15 @@ fixed_position_y = 38666240
 
 [node name="HWallLeftRotated90" parent="." instance=ExtResource( 2 )]
 position = Vector2( 10, 300 )
-rotation = -1.57079
-fixed_rotation = -102943
+rotation = 1.57079
+fixed_rotation = 102943
 fixed_position_x = 655360
 fixed_position_y = 19660800
 
 [node name="HWallRightRotated90" parent="." instance=ExtResource( 2 )]
 position = Vector2( 580, 300 )
-rotation = -1.57079
-fixed_rotation = -102943
+rotation = 1.57079
+fixed_rotation = 102943
 fixed_position_x = 38010880
 fixed_position_y = 19660800
 
@@ -64,15 +64,15 @@ text = "Top and bot walls are rotated 90 degrees"
 
 [node name="VWallTopRotated90" parent="." instance=ExtResource( 3 )]
 position = Vector2( 900, 10 )
-rotation = -1.57079
-fixed_rotation = -102943
+rotation = 1.57079
+fixed_rotation = 102943
 fixed_position_x = 58982400
 fixed_position_y = 655360
 
 [node name="VWallBotRotated90" parent="." instance=ExtResource( 3 )]
 position = Vector2( 900, 590 )
-rotation = -1.57079
-fixed_rotation = -102943
+rotation = 1.57079
+fixed_rotation = 102943
 fixed_position_x = 58982400
 fixed_position_y = 38666240
 
